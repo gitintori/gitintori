@@ -10,7 +10,7 @@
 
 #### :blue_book: Currently studying front-end development.
 
-## :email: How to contact me:
+#### :email: How to contact me:
 
 <div>
 <a href = "mailto:giovannatintori7@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
