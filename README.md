@@ -8,7 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" width="40" height="40">
 
 #### :heavy_minus_sign: :blue_book: Currently studying System Analysis and Development at Universidade de Sorocaba (UNISO) in Sorocaba and Technological Information at Escola Técnica Estadual (ETEC) in São Paulo.
-#### :heavy_minus_sign: :briefcase: :dog: I work at Golden Tech Support
+#### :heavy_minus_sign: :briefcase: I work at Golden Tech Support. :dog:
 #### :heavy_minus_sign: :email: How to contact me:
 
 <div>
