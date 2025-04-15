@@ -1,6 +1,6 @@
 ## Hello, my name is Giovanna! 👋
 
-### Welcome to my Github profile :smile:
+### Welcome to my Github profile :smile: !
 
 #### :heavy_minus_sign: :star2: Technologies and tools i'm familiar with:
 
