@@ -9,7 +9,6 @@
           
 
 #### :heavy_minus_sign: :blue_book: Currently studying System Analysis and Development at Universidade de Sorocaba (UNISO) in Sorocaba and Technological Information at Escola Técnica Estadual (ETEC) in São Paulo.
-#### :heavy_minus_sign: :briefcase: I work at Golden Tech Support. :dog:
 #### :heavy_minus_sign: :email: How to contact me:
 
 <div>
